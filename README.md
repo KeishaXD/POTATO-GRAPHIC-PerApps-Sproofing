@@ -8,7 +8,7 @@ Spoof your device as different model for specific games to unlock low texture ðŸ
 - (Maybe) it can be used for non-root devices
 
 ## Target Sproofing
-  - BGMI (PUBGM India)
+  - PUBGM India (BGMI)
   - PUBGM Korea
   - PUBGM Taiwan
   - PUBGM China
