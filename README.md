@@ -3,6 +3,10 @@
 ## Unlock Low-Texture in games for Better FPS
 Spoof your device as different model for specific games to unlock low texture 🥔
 
+## What is different from other sproofing modules?
+- This sproofing uses the built-in features of the custom ROM, so it only targets sproofing for certain applications.
+- (Maybe) it can be used for non-root devices
+
 ## Target Sproofing
   - BGMI (PUBGM India)
   - PUBGM Korea
